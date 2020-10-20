@@ -1,6 +1,7 @@
-Tags: #ARM #basics 
-From: [[202009291850 Memory layout for program]]
-
+---
+tags:
+  - ARM
+  - basics 
 ---
 We can select what various sections we can put our code and data in, using assembler directives.
 
@@ -15,8 +16,8 @@ There are 4 types of directives
 
 ---
 ### See Also
-- [[202009292008 .section directive]]
-- [[202009292011 .data directive]]
-- [[202009292015 .text directive]]
-- [[202009292018 .bss directive]]
+- [[[202009292008 .section directive]]]
+- [[[202009292011 .data directive]]]
+- [[[202009292015 .text directive]]]
+- [[[202009292018 .bss directive]]]
 

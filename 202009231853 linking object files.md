@@ -1,9 +1,10 @@
-Tags: #bootloader #raspberrypi #gcc 
-From: [[202009230835 Makefile for compiling kernel.img]]
-
 ---
-
-
+tags:
+  - bootloader
+  - raspberrypi
+  - gcc
+  - TODO
 ---
-### See Also
+# linking object files
+
 

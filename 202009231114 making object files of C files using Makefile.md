@@ -14,5 +14,3 @@ example :
 
  This rule is created implicitly, if we use any `.o` flie in the some rule. The make file will look for a rule to get that file.
 
----
-### See Also

@@ -1,9 +1,9 @@
-Tags: #git #gettingstarted 
-From: [[202009261155 what is git]]
-
 ---
+tags: 
+  - git
+  - gettingstarted 
+---
+# how to get started on git
 It is imperitive to learn git, as soon as you've started writing code. 
-
----
-### See Also
+TODO
 
