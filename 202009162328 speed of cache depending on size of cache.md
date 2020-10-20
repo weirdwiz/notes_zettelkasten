@@ -3,7 +3,7 @@ tags:
     - processor
     - cache
 ---
-# speed of cache
+# Speed of Cache
 The larger the cache slower it is, so we divide the caches in the CPU in heirarchies. 
 
 ---
