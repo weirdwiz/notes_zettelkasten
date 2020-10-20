@@ -1,5 +1,6 @@
-Tags:  #makefile 
-From: [[202009230835 Makefile for compiling kernel.img]]
+---
+tags:
+  - makefile  
 
 ---
 the targets in makefile are exectued from the top, so if there are no arguments then it'll run the topmost target.
@@ -15,5 +16,5 @@ the file names mentioned in the target tell the compiler to execute the target a
 
 ---
 ### See Also
-- [[202009230859 $@, etc]]
+- [[202009230859 Automatic Variables]]
 

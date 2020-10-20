@@ -1,7 +1,9 @@
-Tags: #processor #cache
-From: [[202009161451 bootcode.bin]]
-
 ---
+tags: 
+    - processor
+    - cache
+---
+# speed of cache
 The larger the cache slower it is, so we divide the caches in the CPU in heirarchies. 
 
 ---

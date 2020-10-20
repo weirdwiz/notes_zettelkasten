@@ -4,26 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f0325771667319ec",
+        "id": "ed4ca4740febd57e",
         "type": "leaf",
-        "dimension": 50.128205128205124,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202009230835 Makefile for compiling kernel.img.md",
-            "mode": "source"
+            "file": "202009162328 speed of cache depending on size of cache.md",
+            "mode": "preview"
           }
         }
       },
       {
-        "id": "03795d8de584bac0",
+        "id": "c69420a5b1f4dea9",
         "type": "leaf",
-        "dimension": 49.871794871794876,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202009231234 gcc flag -nostartfiles.md",
+            "file": "202009161451 bootcode.bin.md",
             "mode": "source"
           }
         }
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#makefile"
+                "query": ".section"
               }
             }
           },
@@ -65,11 +63,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321
   },
   "right": {
     "id": "256ae6c758b80d10",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202009230835 Makefile for compiling kernel.img.md"
+                "file": "202009162328 speed of cache depending on size of cache.md"
               }
             }
           },
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202009230835 Makefile for compiling kernel.img.md"
+                "file": "202009162328 speed of cache depending on size of cache.md"
               }
             }
           },
@@ -115,15 +114,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "202009230835 Makefile for compiling kernel.img.md",
-    "202009231230 gcc flag -nostdinc or c++.md",
-    "202009231234 gcc flag -nostartfiles.md",
-    "202009231119 $% symbol.md",
-    "202009230844 Makefile target.md",
-    "202009190915 mpidr_el1.md",
-    "202009162348 kernel.img.md",
+    "202009162328 speed of cache depending on size of cache.md",
+    "202009162333 why does the cpu have cache.md",
+    "202009162338 BCM2837 boot sequence.md",
     "202009161451 bootcode.bin.md",
-    "202009181108 Application Binary Interface.md",
-    "202009181117 branching assembley code.md"
+    "202009291856 .bss.md",
+    "202009190915 mpidr_el1.md",
+    "202009292028 mrs.md",
+    "202009292008 .section directive.md",
+    "202009292001 Assembler directives.md",
+    "202009230835 Makefile for compiling kernel.img.md"
   ]
 }

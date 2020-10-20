@@ -1,7 +1,9 @@
-Tags: #processor #cache 
-From: [[202009162328 speed of cache depending on size of cache]]
-
 ---
+tags:
+    - processor
+    - cache 
+---
+
 The processor has cache, and organises it into heirarchal structure because, access to main memory is very slow.
 
 ---
