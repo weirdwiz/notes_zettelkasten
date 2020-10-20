@@ -14,7 +14,4 @@ target: filename filename ..
 
 the file names mentioned in the target tell the compiler to execute the target again when the file content changes. **These are prerequisite for the target.**
 
----
-### See Also
-- [[202009230859 Automatic Variables]]
 
